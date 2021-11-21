@@ -1,0 +1,308 @@
+Philosopher 0thinks for 0 time units
+Philosopher 0goes for left fork
+Philosopher 0has left fork
+Philosopher 3thinks for 0 time units
+Philosopher 3goes for left fork
+Philosopher 3has left fork
+Philosopher 1thinks for 0 time units
+Philosopher 1goes for left fork
+Philosopher 1has left fork
+Philosopher 1goes for right fork
+Philosopher 2thinks for 0 time units
+Philosopher 2goes for left fork
+Philosopher 2has left fork
+Philosopher 2eats for 0 time units
+Philosopher 3goes for right fork
+Philosopher 0eats for 0 time units
+Philosopher 1has right fork
+Philosopher 1eats for 0 time units
+Philosopher 3has right fork
+Philosopher 3eats for 0 time units
+Philosopher 2releases right fork
+Philosopher 2releases left fork
+Philosopher 2thinks for 0 time units
+Philosopher 2goes for left fork
+Philosopher 2has left fork
+Philosopher 3releases right fork
+Philosopher 3releases left fork
+Philosopher 3thinks for 0 time units
+Philosopher 1releases right fork
+Philosopher 1releases left fork
+Philosopher 1thinks for 0 time units
+Philosopher 1goes for left fork
+Philosopher 1has left fork
+Philosopher 0releases right fork
+Philosopher 0releases left fork
+Philosopher 0thinks for 0 time units
+Philosopher 1goes for right fork
+Philosopher 3goes for left fork
+Philosopher 3has left fork
+Philosopher 3goes for right fork
+Philosopher 3has right fork
+Philosopher 2eats for 0 time units
+Philosopher 3eats for 0 time units
+Philosopher 3releases right fork
+Philosopher 1has right fork
+Philosopher 0goes for left fork
+Philosopher 0has left fork
+Philosopher 0eats for 0 time units
+Philosopher 0releases right fork
+Philosopher 0releases left fork
+Philosopher 1eats for 0 time units
+Philosopher 1releases right fork
+Philosopher 1releases left fork
+Philosopher 1thinks for 0 time units
+Philosopher 1goes for left fork
+Philosopher 1has left fork
+Philosopher 1goes for right fork
+Philosopher 3releases left fork
+Philosopher 3thinks for 0 time units
+Philosopher 3goes for left fork
+Philosopher 3has left fork
+Philosopher 3goes for right fork
+Philosopher 2releases right fork
+Philosopher 2releases left fork
+Philosopher 2thinks for 0 time units
+Philosopher 2goes for left fork
+Philosopher 2has left fork
+Philosopher 2eats for 0 time units
+Philosopher 2releases right fork
+Philosopher 2releases left fork
+Philosopher 3has right fork
+Philosopher 3eats for 0 time units
+Philosopher 3releases right fork
+Philosopher 3releases left fork
+Philosopher 1has right fork
+Philosopher 1eats for 0 time units
+Philosopher 1releases right fork
+Philosopher 1releases left fork
+Philosopher 0thinks for 0 time units
+Philosopher 0goes for left fork
+Philosopher 0has left fork
+Philosopher 0eats for 0 time units
+Philosopher 0releases right fork
+Philosopher 0releases left fork
+Philosopher 1thinks for 0 time units
+Philosopher 1goes for left fork
+Philosopher 1has left fork
+Philosopher 1goes for right fork
+Philosopher 1has right fork
+Philosopher 3thinks for 0 time units
+Philosopher 3goes for left fork
+Philosopher 3has left fork
+Philosopher 3goes for right fork
+Philosopher 2thinks for 0 time units
+Philosopher 2goes for left fork
+Philosopher 2has left fork
+Philosopher 2eats for 0 time units
+Philosopher 2releases right fork
+Philosopher 3has right fork
+Philosopher 3eats for 0 time units
+Philosopher 3releases right fork
+Philosopher 3releases left fork
+Philosopher 1eats for 0 time units
+Philosopher 1releases right fork
+Philosopher 1releases left fork
+Philosopher 0thinks for 0 time units
+Philosopher 0goes for left fork
+Philosopher 0has left fork
+Philosopher 1thinks for 0 time units
+Philosopher 1goes for left fork
+Philosopher 3thinks for 0 time units
+Philosopher 3goes for left fork
+Philosopher 3has left fork
+Philosopher 3goes for right fork
+Philosopher 3has right fork
+Philosopher 2releases left fork
+Philosopher 2thinks for 0 time units
+Philosopher 2goes for left fork
+Philosopher 2has left fork
+Philosopher 3eats for 0 time units
+Philosopher 3releases right fork
+Philosopher 1has left fork
+Philosopher 1goes for right fork
+Philosopher 1has right fork
+Philosopher 1eats for 0 time units
+Philosopher 1releases right fork
+Philosopher 1releases left fork
+Philosopher 0eats for 0 time units
+Philosopher 0releases right fork
+Philosopher 0releases left fork
+Philosopher 0thinks for 0 time units
+Philosopher 0goes for left fork
+Philosopher 0has left fork
+Philosopher 1thinks for 0 time units
+Philosopher 1goes for left fork
+Philosopher 3releases left fork
+Philosopher 3thinks for 0 time units
+Philosopher 2eats for 0 time units
+Philosopher 2releases right fork
+Philosopher 2releases left fork
+Philosopher 2thinks for 0 time units
+Philosopher 2goes for left fork
+Philosopher 2has left fork
+Philosopher 3goes for left fork
+Philosopher 3has left fork
+Philosopher 3goes for right fork
+Philosopher 1has left fork
+Philosopher 1goes for right fork
+Philosopher 1has right fork
+Philosopher 1eats for 0 time units
+Philosopher 1releases right fork
+Philosopher 1releases left fork
+Philosopher 1thinks for 0 time units
+Philosopher 1goes for left fork
+Philosopher 1has left fork
+Philosopher 1goes for right fork
+Philosopher 1has right fork
+Philosopher 1eats for 0 time units
+Philosopher 1releases right fork
+Philosopher 1releases left fork
+Philosopher 1thinks for 0 time units
+Philosopher 1goes for left fork
+Philosopher 1has left fork
+Philosopher 1goes for right fork
+Philosopher 1has right fork
+Philosopher 1eats for 0 time units
+Philosopher 1releases right fork
+Philosopher 1releases left fork
+Philosopher 1thinks for 0 time units
+Philosopher 1goes for left fork
+Philosopher 1has left fork
+Philosopher 1goes for right fork
+Philosopher 1has right fork
+Philosopher 1eats for 0 time units
+Philosopher 1releases right fork
+Philosopher 1releases left fork
+Philosopher 1thinks for 0 time units
+Philosopher 0eats for 0 time units
+Philosopher 1goes for left fork
+Philosopher 1has left fork
+Philosopher 1goes for right fork
+Philosopher 1has right fork
+Philosopher 1eats for 0 time units
+Philosopher 1releases right fork
+Philosopher 0releases right fork
+Philosopher 3has right fork
+Philosopher 3eats for 0 time units
+Philosopher 2eats for 0 time units
+Philosopher 2releases right fork
+Philosopher 2releases left fork
+Philosopher 2thinks for 0 time units
+Philosopher 2goes for left fork
+Philosopher 2has left fork
+Philosopher 3releases right fork
+Philosopher 3releases left fork
+Philosopher 3thinks for 0 time units
+Philosopher 3goes for left fork
+Philosopher 3has left fork
+Philosopher 3goes for right fork
+Philosopher 3has right fork
+Philosopher 3eats for 0 time units
+Philosopher 3releases right fork
+Philosopher 3releases left fork
+Philosopher 3thinks for 0 time units
+Philosopher 3goes for left fork
+Philosopher 3has left fork
+Philosopher 3goes for right fork
+Philosopher 3has right fork
+Philosopher 3eats for 0 time units
+Philosopher 3releases right fork
+Philosopher 3releases left fork
+Philosopher 3thinks for 0 time units
+Philosopher 3goes for left fork
+Philosopher 3has left fork
+Philosopher 0releases left fork
+Philosopher 0thinks for 0 time units
+Philosopher 0goes for left fork
+Philosopher 0has left fork
+Philosopher 1releases left fork
+Philosopher 1thinks for 0 time units
+Philosopher 1goes for left fork
+Philosopher 1has left fork
+Philosopher 1goes for right fork
+Philosopher 1has right fork
+Philosopher 1eats for 0 time units
+Philosopher 1releases right fork
+Philosopher 0eats for 0 time units
+Philosopher 0releases right fork
+Philosopher 0releases left fork
+Philosopher 3goes for right fork
+Philosopher 3has right fork
+Philosopher 2eats for 0 time units
+Philosopher 2releases right fork
+Philosopher 2releases left fork
+Philosopher 2thinks for 0 time units
+Philosopher 2goes for left fork
+Philosopher 2has left fork
+Philosopher 3eats for 0 time units
+Philosopher 3releases right fork
+Philosopher 3releases left fork
+Philosopher 3thinks for 0 time units
+Philosopher 3goes for left fork
+Philosopher 3has left fork
+Philosopher 3goes for right fork
+Philosopher 3has right fork
+Philosopher 3eats for 0 time units
+Philosopher 3releases right fork
+Philosopher 3releases left fork
+Philosopher 3thinks for 0 time units
+Philosopher 0thinks for 0 time units
+Philosopher 0goes for left fork
+Philosopher 0has left fork
+Philosopher 0eats for 0 time units
+Philosopher 0releases right fork
+Philosopher 0releases left fork
+Philosopher 0thinks for 0 time units
+Philosopher 0goes for left fork
+Philosopher 0has left fork
+Philosopher 0eats for 0 time units
+Philosopher 0releases right fork
+Philosopher 0releases left fork
+Philosopher 1releases left fork
+Philosopher 0thinks for 0 time units
+Philosopher 0goes for left fork
+Philosopher 0has left fork
+Philosopher 3goes for left fork
+Philosopher 3has left fork
+Philosopher 3goes for right fork
+Philosopher 3has right fork
+Philosopher 3eats for 0 time units
+Philosopher 3releases right fork
+Philosopher 3releases left fork
+Philosopher 2eats for 0 time units
+Philosopher 2releases right fork
+Philosopher 2releases left fork
+Philosopher 2thinks for 0 time units
+Philosopher 0eats for 0 time units
+Philosopher 0releases right fork
+Philosopher 0releases left fork
+Philosopher 0thinks for 0 time units
+Philosopher 2goes for left fork
+Philosopher 2has left fork
+Philosopher 2eats for 0 time units
+Philosopher 2releases right fork
+Philosopher 0goes for left fork
+Philosopher 0has left fork
+Philosopher 0eats for 0 time units
+Philosopher 0releases right fork
+Philosopher 2releases left fork
+Philosopher 2thinks for 0 time units
+Philosopher 2goes for left fork
+Philosopher 2has left fork
+Philosopher 2eats for 0 time units
+Philosopher 2releases right fork
+Philosopher 2releases left fork
+Philosopher 0releases left fork
+Philosopher 0thinks for 0 time units
+Philosopher 0goes for left fork
+Philosopher 0has left fork
+Philosopher 0eats for 0 time units
+Philosopher 0releases right fork
+Philosopher 0releases left fork
+Philosopher 2thinks for 0 time units
+Philosopher 2goes for left fork
+Philosopher 2has left fork
+Philosopher 2eats for 0 time units
+Philosopher 2releases right fork
+Philosopher 2releases left fork

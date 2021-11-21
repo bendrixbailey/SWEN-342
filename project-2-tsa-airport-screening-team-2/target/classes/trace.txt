@@ -1,0 +1,135 @@
+Document Checker recieves Passenger-0
+Document Checker processes Passenger-0
+Document Checker sent Passenger-0 to Scanner-0              Send passenger to 1st scanner
+Document Checker recieves Passenger-1
+Document Checker processes Passenger-1
+Document Checker sent Passenger-1 to Scanner-1              Send next passenger to next scanner in line
+ScannerQueue-0 recieves Passenger-0
+ScannerQueue-0 processes Passenger-0
+Document Checker recieves Passenger-2
+Document Checker processes Passenger-2
+ScannerQueue-1 recieves Passenger-1
+ScannerQueue-1 processes Passenger-1
+ScannerQueue-1 sent Passenger-1 to BodyScan-1
+ScannerQueue-0 sent Passenger-0 to BodyScan-0               Send passenger to body scan for that line
+Document Checker sent Passenger-2 to Scanner-0
+ScannerQueue-0 sent Passenger-0's baggage to BagScan-0      Send aboves passengers bag to bag scan for that line
+ScannerQueue-1 sent Passenger-1's baggage to BagScan-1
+BagScan-0 recieves Passenger-0's baggage
+BagScan-0 recieves Passenger-0
+BagScan-0 processes Passenger-0's baggage
+Passenger-0's baggage failed the security check             Passenger 0's baggage fails security check
+BagScan-0 sent Passenger-0's baggage to Security-0
+BodyScan-0 recieves Passenger-0
+Document Checker recieves Passenger-3
+BodyScan-0 processes Passenger-0
+Security-0 recieves Passenger-0's baggage
+Security-0 recieves Passenger-0
+BagScan-1 recieves Passenger-1's baggage
+BodyScan-1 recieves Passenger-1
+ScannerQueue-0 recieves Passenger-2
+BodyScan-1 processes Passenger-1
+Passenger-1 failed the security check                       Passenger 1 failed body check        
+BagScan-1 recieves Passenger-1
+Security-0 processes Passenger-0's baggage
+Passenger-0 passed the security check
+Document Checker processes Passenger-3
+BodyScan-0 sent Passenger-0 to Security-0
+BagScan-1 processes Passenger-1's baggage
+BodyScan-1 sent Passenger-1 to Security-1
+ScannerQueue-0 processes Passenger-2
+ScannerQueue-0 sent Passenger-2 to BodyScan-0
+Security-1 recieves Passenger-1
+Security-1 processes Passenger-1
+Passenger-1's baggage passed the security check.
+Security-0 recieves Passenger-0
+Security-0 processes Passenger-0
+-----Document Checker had to turn away Passenger-3-----     Doc checker turned away a passenger
+Security-0 sent Passenger-0 to Jail                         Because passenger 0 failed body check, passenger 0 goes to jail.
+BagScan-1 sent Passenger-1's baggage to Security-1
+BodyScan-0 recieves Passenger-2
+BodyScan-0 processes Passenger-2
+ScannerQueue-0 sent Passenger-2's baggage to BagScan-0
+Passenger-2 failed the security check                       Passenger faile security check
+Security-1 recieves Passenger-1's baggage
+Jail recieves Passenger-0                                   Jail recieves above passenger
+Document Checker recieves Passenger-4
+Security-1 recieves Passenger-1
+BodyScan-0 sent Passenger-2 to Security-0
+BagScan-0 recieves Passenger-2's baggage
+BagScan-0 recieves Passenger-2
+BagScan-0 processes Passenger-2's baggage
+Passenger-2's baggage passed the security check.
+BagScan-0 sent Passenger-2's baggage to Security-0
+Security-0 recieves Passenger-2
+Security-0 processes Passenger-2
+Security-1 processes Passenger-1's baggage
+Document Checker processes Passenger-4
+Security-1 sent Passenger-1 to Jail
+Security-0 recieves Passenger-2's baggage
+Jail recieves Passenger-1
+Document Checker sent Passenger-4 to Scanner-1
+Security-0 recieves Passenger-2
+Security-0 processes Passenger-2's baggage
+ScannerQueue-1 recieves Passenger-4
+ScannerQueue-1 processes Passenger-4
+Security-0 sent Passenger-2 to Jail
+ScannerQueue-1 sent Passenger-4 to BodyScan-1
+Jail recieves Passenger-2
+BodyScan-1 recieves Passenger-4
+BodyScan-1 processes Passenger-4
+ScannerQueue-1 sent Passenger-4's baggage to BagScan-1
+Passenger-4 passed the security check                           Passenger 4 passes security check
+BodyScan-1 sent Passenger-4 to Security-1
+BagScan-1 recieves Passenger-4's baggage
+BagScan-1 recieves Passenger-4
+BagScan-1 processes Passenger-4's baggage
+Passenger-4's baggage passed the security check.                Passenger 4's baggage passes security check
+Security-1 recieves Passenger-4
+Security-1 processes Passenger-4
+BagScan-1 sent Passenger-4's baggage to Security-1
+Security-1 recieves Passenger-4's baggage
+Security-1 recieves Passenger-4
+Security-1 processes Passenger-4's baggage
+-----Passenger-4 passed security check! Happy flying!-----      Passenger 4 had no bag/body check fails, so they fly free
+Document Checker recieves Close                                 Close is sent, starting shut down, as all passengers have been processed
+Document Checker is closing for the day.
+Document Checker sent Close to ScannerQueue-0
+Document Checker sent Close to ScannerQueue-1
+ScannerQueue-0 recieves Close
+ScannerQueue-0 is closing for the day.
+ScannerQueue-0 sent Close to BodyScan-0
+ScannerQueue-1 recieves Close
+ScannerQueue-1 is closing for the day.
+ScannerQueue-1 sent Close to BodyScan-1
+BodyScan-0 recieves Close
+BodyScan-0 sent Close to Security-0
+ScannerQueue-0 sent Close to BagScan-0
+Security-0 recieves Close
+BodyScan-0 is closing for the day.
+BodyScan-1 recieves Close
+BodyScan-1 sent Close to Security-1
+ScannerQueue-1 sent Close to BagScan-1
+Security-1 recieves Close
+BodyScan-1 is closing for the day.
+BagScan-0 recieves Close
+BagScan-0 sent Close to Security-0
+BagScan-1 recieves Close
+Security-0 recieves Close
+Security-0 sent Close to Jail
+BagScan-0 is closing for the day.
+Jail recieves Close
+Jail processes Close
+Security-0 is closing for the day.
+BagScan-1 sent Close to Security-1
+BagScan-1 is closing for the day.
+Security-1 recieves Close
+Security-1 sent Close to Jail
+Security-1 is closing for the day.
+Jail recieves Close
+Jail processes Close
+Here are the passengers going to the slammer today:
+    -Passenger-0                                                Body failed check
+    -Passenger-1                                                bag failed check
+    -Passenger-2                                                body failed check
+Jail is closing for the day.                                    Jail closes once all other things close.

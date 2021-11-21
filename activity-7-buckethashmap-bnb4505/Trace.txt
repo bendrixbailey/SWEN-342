@@ -1,0 +1,182 @@
+Read locked
+Read locked
+Read locked
+Read unlocked
+Read unlocked
+Read unlocked
+Write locked
+Size of the bucket hash map is:0
+Read locked
+Read unlocked
+Write unlocked
+Write locked
+Read locked
+Read unlocked
+Write unlocked
+Added TesterMc.Gee0 to the bucket map
+Added Schmooze0 to the bucket map
+Read locked
+Read locked
+Read locked
+Read unlocked
+Read unlocked
+Read unlocked
+Size of the bucket hash map is:2
+Read locked
+Read locked
+Read locked
+Read locked
+Read unlocked
+Read unlocked
+Read unlocked
+Write locked
+Read locked
+Read unlocked
+Read unlocked
+Write unlocked
+Removed Schmooze0 from the bucket map
+Write locked
+Read locked
+Read unlocked
+Write locked
+Write unlocked
+Added Schmooze1 to the bucket map
+Read locked
+Read unlocked
+Write unlocked
+Removed TesterMc.Gee0 from the bucket map
+Write locked
+Read locked
+Read unlocked
+Write unlocked
+Added TesterMc.Gee1 to the bucket map
+Read locked
+Read locked
+Read locked
+Read locked
+Read unlocked
+Read unlocked
+Read unlocked
+Read unlocked
+Write locked
+Read locked
+Read unlocked
+Write unlocked
+Removed TesterMc.Gee1 from the bucket map
+Write locked
+Read locked
+Read unlocked
+Write unlocked
+Write locked
+Read locked
+Read unlocked
+Write unlocked
+Added TesterMc.Gee2 to the bucket map
+Removed Schmooze1 from the bucket map
+Write locked
+Read locked
+Read unlocked
+Write unlocked
+Added Schmooze2 to the bucket map
+Read locked
+Read locked
+Read locked
+Read unlocked
+Read unlocked
+Read unlocked
+Size of the bucket hash map is:2
+Read locked
+Read locked
+Read unlocked
+Read unlocked
+Write locked
+Read locked
+Read unlocked
+Write unlocked
+Removed TesterMc.Gee2 from the bucket map
+Write locked
+Read locked
+Read unlocked
+Write unlocked
+Added TesterMc.Gee3 to the bucket map
+Read locked
+Read locked
+Read unlocked
+Read unlocked
+Write locked
+Read locked
+Read unlocked
+Write unlocked
+Removed Schmooze2 from the bucket map
+Write locked
+Read locked
+Read unlocked
+Write unlocked
+Added Schmooze3 to the bucket map
+Read locked
+Read locked
+Read unlocked
+Read unlocked
+Write locked
+Read locked
+Read unlocked
+Write unlocked
+Removed Schmooze3 from the bucket map
+Write locked
+Read locked
+Read unlocked
+Write unlocked
+Added Schmooze4 to the bucket map
+Read locked
+Read locked
+Read locked
+Read unlocked
+Read unlocked
+Read unlocked
+Size of the bucket hash map is:2
+Read locked
+Read locked
+Read unlocked
+Read unlocked
+Write locked
+Read locked
+Read unlocked
+Write unlocked
+Removed TesterMc.Gee3 from the bucket map
+Write locked
+Read locked
+Read unlocked
+Write unlocked
+Added TesterMc.Gee4 to the bucket map
+Read locked
+Read locked
+Read unlocked
+Read unlocked
+Write locked
+Read locked
+Read unlocked
+Write unlocked
+Removed Schmooze4 from the bucket map
+Read locked
+Read locked
+Read locked
+Read unlocked
+Read unlocked
+Read unlocked
+Size of the bucket hash map is:1
+Read locked
+Read locked
+Read unlocked
+Read unlocked
+Write locked
+Read locked
+Read unlocked
+Write unlocked
+Removed TesterMc.Gee4 from the bucket map
+Read locked
+Read locked
+Read locked
+Read unlocked
+Read unlocked
+Read unlocked
+Size of the bucket hash map is:0
